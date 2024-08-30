@@ -1,18 +1,21 @@
 package com.mt.hrm;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.CommandLineRunner;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/*
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.CommandLineRunner;
 import com.mt.hrm.model.Address;
 import com.mt.hrm.model.StudentInformation;
 import com.mt.hrm.repository.AddressRepository;
 import com.mt.hrm.repository.EmployeeRepository;
 import com.mt.hrm.repository.StudentRepository;
+*/
 
 @SpringBootApplication
-/*
+
 public class HrmApplication {
 
 	public static void main(String[] args) {
@@ -20,7 +23,8 @@ public class HrmApplication {
 	}
 
 }
-*/
+
+/*
 public class HrmApplication implements CommandLineRunner{
 
 	@Autowired 
@@ -49,3 +53,4 @@ public class HrmApplication implements CommandLineRunner{
     }
 
 }
+*/
